@@ -4,7 +4,7 @@ A three-stage pipeline for implicit hate speech detection that augments standard
 
 ## Paper
 
-📄 **[Detect and Explain: RAC and LLM Explainability on Implicit Hate Speech](./paper.pdf)**
+📄 **[Detect and Explain: RAC and LLM Explainability on Implicit Hate Speech](Paper_DL-5.pdf)**
 Pierre Bernadet, Alexandre Potocnik, Julie Michallat — Group 44, EE-559: Deep Learning, 2026.
 
 ## Architecture
