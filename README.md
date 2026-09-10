@@ -2,6 +2,11 @@
 
 A three-stage pipeline for implicit hate speech detection that augments standard transformer classifiers with FAISS-based nearest-neighbor retrieval. The retriever finds semantically similar training examples at inference time; these are prepended to the input, giving the classifier richer context without retraining the retriever.
 
+## Paper
+
+📄 **[Detect and Explain: RAC and LLM Explainability on Implicit Hate Speech](./Detect_and_Explain_RAC_and_LLM_Explainability.pdf)**
+Pierre Bernadet, Alexandre Potocnik, Julie Michallat — Group 44, EE-559: Deep Learning, 2026.
+
 ## Architecture
 
 ```
